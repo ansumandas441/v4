@@ -1,7 +1,7 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
+title: 'Software Developer - 1'
+company: 'ZEE'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
