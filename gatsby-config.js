@@ -150,9 +150,10 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: 'gatsby-plugin-google-tagmanager',
       options: {
-        trackingId: 'G-62YM3B91NX',
+        id: 'GTM-T7L4GXWS',
+        includeInDevelopment: false,
       },
     },
   ],
