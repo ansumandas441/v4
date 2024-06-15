@@ -2,7 +2,6 @@
 date: '2016-08-01'
 title: 'Ecommerce nodejs application'
 github: 'https://github.com/ansumandas441/AmazonCloneNodeJS-backend'
-# external: 'https://bchiang7.github.io/react-profile/'
 tech:
   - Node
   - Express

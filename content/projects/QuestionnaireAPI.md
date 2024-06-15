@@ -2,7 +2,6 @@
 date: '2016-08-01'
 title: 'Questionnaire API with strapi'
 github: 'https://github.com/ansumandas441/QuestionnaireAPI'
-# external: 'https://bchiang7.github.io/react-profile/'
 tech:
   - Node
   - Express
